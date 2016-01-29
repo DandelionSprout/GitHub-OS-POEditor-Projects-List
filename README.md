@@ -10,9 +10,11 @@ This isn't yet a mature project (I've only just thought of the idea to create th
 
 (You can copy/paste rows and change as necessary if not sure what to write).
 
-GitHub project link | POEditor project link | Original/base language (if applicable) | Project description | Needs description and/or issue link
+GitHub project link | POEditor project link | Original/base language (if applicable) | Project description | Additional notes (if applicable)
 ---|---|---|---|---
-[phpMussel](https://github.com/Maikuolan/phpMussel) | [phpMussel](https://poeditor.com/projects/view?id=43787) | English | PHP-based anti-virus anti-trojan anti-malware solution. | Some translation work already done, but always keen to get whatever help can be offered. [phpMussel#3](https://github.com/Maikuolan/phpMussel/issues/3)
+[Game Jolt](https://github.com/gamejolt/translations) | [Game Jolt](https://poeditor.com/join/project/B4nWT6EgnD) | English (US) | An indie game community. | Translations are a community project. [Help translate!](https://poeditor.com/join/project/B4nWT6EgnD) ([Issues](https://github.com/gamejolt/translations/issues)).
+[phpMussel](https://github.com/Maikuolan/phpMussel) | [phpMussel](https://poeditor.com/join/project/5CcT8VcfeK) | English (AU) | PHP-based anti-virus anti-trojan anti-malware solution. | Some translation work already done, but always keen to get whatever help can be offered. [Issues#3](https://github.com/Maikuolan/phpMussel/issues/3).
+[SFS Mass IP Checker](https://github.com/Maikuolan/SFS-Mass-IP-Checker/) | [SFS Mass IP Checker](https://poeditor.com/join/project/dZAEjJsmj6) | English (AU) | A stand-alone script for checking IP addresses en-masse against the Stop Forum Spam database. | [Issues](https://github.com/Maikuolan/SFS-Mass-IP-Checker/issues).
 
 ---
 
