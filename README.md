@@ -13,8 +13,9 @@ This isn't yet a mature project (I've only just thought of the idea to create th
 GitHub project link | POEditor project link | Original/base language (if applicable) | Project description | Additional notes (if applicable)
 ---|---|---|---|---
 [Game Jolt](https://github.com/gamejolt/translations) | [Game Jolt](https://poeditor.com/join/project/B4nWT6EgnD) | English (US) | An indie game community. | Translations are a community project. [Help translate!](https://poeditor.com/join/project/B4nWT6EgnD) ([Issues](https://github.com/gamejolt/translations/issues)).
-[phpMussel](https://github.com/Maikuolan/phpMussel) | [phpMussel](https://poeditor.com/join/project/5CcT8VcfeK) | English (AU) | PHP-based anti-virus anti-trojan anti-malware solution. | Some translation work already done, but always keen to get whatever help can be offered. [Issues#3](https://github.com/Maikuolan/phpMussel/issues/3).
-[SFS Mass IP Checker](https://github.com/Maikuolan/SFS-Mass-IP-Checker/) | [SFS Mass IP Checker](https://poeditor.com/join/project/dZAEjJsmj6) | English (AU) | A stand-alone script for checking IP addresses en-masse against the Stop Forum Spam database. | [Issues](https://github.com/Maikuolan/SFS-Mass-IP-Checker/issues).
+[phpMussel](https://github.com/Maikuolan/phpMussel) | [phpMussel](https://poeditor.com/join/project/5CcT8VcfeK) | English (AU) | PHP-based anti-virus anti-trojan anti-malware solution. | Some translation work already done, but always keen to get whatever help can be offered. Some translations are listed as 100%, but aren't yet proof-read (these will be listed as fuzzy and/or not proofread).
+[SFS Mass IP Checker](https://github.com/Maikuolan/SFS-Mass-IP-Checker/) | [SFS Mass IP Checker](https://poeditor.com/join/project/dZAEjJsmj6) | English (AU) | A stand-alone script for checking IP addresses en-masse against the Stop Forum Spam database. | Some translation work already done, but always keen to get whatever help can be offered. Some translations are listed as 100%, but aren't yet proof-read (these will be listed as fuzzy and/or not proofread).
+[YoImages](https://github.com/sirulli/yoimages) | [YoImages](https://poeditor.com/projects/view?id=25799) | English (US) | Better image handling capabilities for Wordpress [http://sirulli.org/yoimages/](http://sirulli.org/yoimages/). | --
 
 ---
 
@@ -42,4 +43,3 @@ I intend to include a "CONTRIBUTING.md" in the near future, but for now, if you 
 ### Licensing:
 
 Because this repository contains only a list (a list which, if there is any interest in it, will likely be contributed to by multiple GitHub users, will likely frequently change and should only serve as a point of reference to other repositories or projects, which will, of course, all have their own licensing schema unrelated to this particular repository), and because this repository contains no actual working code for any project or projects, I feel that licensing restrictions would be rather unnecessary and counterproductive, and so, to this repository, I opt to apply the "Unlicense" license (*see [LICENSE](https://github.com/Maikuolan/GitHub-OS-POEditor-Projects-List/blob/master/LICENSE)*).
-
