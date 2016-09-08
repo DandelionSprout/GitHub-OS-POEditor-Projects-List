@@ -2,8 +2,6 @@
 
 This repository, "__[GitHub OS POEditor Projects List](https://github.com/Maikuolan/GitHub-OS-POEditor-Projects-List)__", is intended to act as a list of GitHub open source projects on __[POEditor](https://poeditor.com/)__ looking for translators.
 
-This isn't yet a mature project (I've only just thought of the idea to create this repository earlier today [2016.01.29]), and I'm still in the process of gauging whether there's likely to be any interest in a list such as this from others, so, whether this repository will be developed further or simply deleted in the near future, time will tell (it's my hope a list like this will be useful for others, but, if it isn't useful, there'll be little or no point in developing it further).
-
 ---
 
 # The list:
@@ -15,7 +13,6 @@ GitHub project link | POEditor project link | Original/base language (if applica
 [Clipboard Actions](https://github.com/joecks/clipboard-actions-community) | [Clipboard Actions](https://poeditor.com/join/project/QJknOiXAF2) | English | Clipboard Actions creates actions based on your clipboard and shows them in the status bar as notifications. | If you are participatring in the translation program you are providing translations under CC-By or CC 0 (Open Domain) Licence. If not further stated CC-By will be assumed and your name will be mentioned in the translation notes.
 [Game Jolt](https://github.com/gamejolt/translations) | [Game Jolt](https://poeditor.com/join/project/B4nWT6EgnD) | English (US) | An indie game community. | Translations are a community project. [Help translate!](https://poeditor.com/join/project/B4nWT6EgnD) ([Issues](https://github.com/gamejolt/translations/issues)).
 [phpMussel](https://github.com/Maikuolan/phpMussel) | [phpMussel](https://poeditor.com/join/project/5CcT8VcfeK) | English (AU) | PHP-based anti-virus anti-trojan anti-malware solution. | Some translation work already done, but always keen to get whatever help can be offered. Some translations are listed as 100%, but aren't yet proof-read (these will be listed as fuzzy and/or not proofread).
-[SFS Mass IP Checker](https://github.com/Maikuolan/SFS-Mass-IP-Checker/) | [SFS Mass IP Checker](https://poeditor.com/join/project/dZAEjJsmj6) | English (AU) | A stand-alone script for checking IP addresses en-masse against the Stop Forum Spam database. | Some translation work already done, but always keen to get whatever help can be offered. Some translations are listed as 100%, but aren't yet proof-read (these will be listed as fuzzy and/or not proofread).
 [YoImages](https://github.com/sirulli/yoimages) | [YoImages](https://poeditor.com/projects/view?id=25799) | English (US) | Better image handling capabilities for Wordpress [http://sirulli.org/yoimages/](http://sirulli.org/yoimages/). | --
 
 ---
